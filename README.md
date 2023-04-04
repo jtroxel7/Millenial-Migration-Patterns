@@ -4,4 +4,4 @@ In this project, we used Python and the Seaborn library to analyze and visualize
 
 The project can be found at https://jtroxel7.github.io/Millenial-Migration-Patterns/
 
-*Authors: Jack Troxel, Karrine Denisova, Catherine Erickson, and Ally Bardas in the fall of 2022.*
+*Authors: Jack Troxel, Karrine Denisova, Catherine Erickson, Ally Bardas*
